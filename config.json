@@ -1,0 +1,93 @@
+{
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "selfListen": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "nhuy98973@gmail.com",
+    "PASSWORD": "Readyne12",
+    "OTPKEY": "",
+    "BOTNAME": "AndreiBot",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100010310568952",
+        "ID2",
+        "100005848214258",
+        "100009375747947"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "2e7e993dcbec96a75e73f365d259a01e72a0e462"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBQ2uQYY6TVeEr2NojtoJ8wMl9LVfFxbQQ"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBQ2uQYY6TVeEr2NojtoJ8wMl9LVfFxbQQ"
+    },
+    "weather": {
+        "OPEN_WEATHER": "8f423d60b64698f36ffb022955831345"
+    },
+    "covid": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "img": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "linkword": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "sim": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "slap": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "sortword": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "teach": {
+        "APIKEY": "Meew_sOAiAVSGJGJN5cb4kUdrF1IT5rHD9d"
+    },
+    "ins": {
+        "APIKEY": ""
+    },
+    "insta": {
+        "APIKEY": "4980740ff0msh4b0cf7cbdb2d67ep149cabjsnfb1e2a1bdf3e"
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    }
+}
