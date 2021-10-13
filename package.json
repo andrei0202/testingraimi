@@ -63,7 +63,6 @@
 		"sequelize": "",
 		"simple-git": "",
 		"spdl-core": "^2.0.2",
-		"spotify-dl": "^1.0.5",
 		"sqlite3": "",
 		"string-similarity": "",
 		"tiktok-scraper": "^1.4.36",

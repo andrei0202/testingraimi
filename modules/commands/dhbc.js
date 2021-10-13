@@ -9,7 +9,7 @@ module.exports.config = {
     description: "Đuổi hình bắt chữ trên chính messenger của bạn!!!",
     commandCategory: "Giải trí",
     usages: "[1/2]",
-    cooldowns: 0
+    cooldowns: 120
 };
 
 
